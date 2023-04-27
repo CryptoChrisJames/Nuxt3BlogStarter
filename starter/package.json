@@ -1,6 +1,10 @@
 {
-  "name": "nuxt-app",
+  "name": "nuxt3blogstarter",
+  "version": "1.0.0",
+  "description": "A starter template for a statically rendered blog website using Nuxt3.",
   "private": true,
+  "author": "Christopher Smith",
+  "license": "MIT",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
